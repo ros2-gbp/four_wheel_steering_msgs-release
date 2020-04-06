@@ -1,9 +1,0 @@
-ros-melodic-four-wheel-steering-msgs (1.0.0-0stretch) stretch; urgency=high
-
-  * Update url path
-  * Initial commit from https://github.com/Romea/romea_controllers
-  * Contributors: Vincent Rousseau
-
- -- Vincent Rousseau <vincent.rousseau@irstea.fr>  Tue, 25 Apr 2017 23:00:00 -0000
-
-
