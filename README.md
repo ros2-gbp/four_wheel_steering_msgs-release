@@ -1,3 +1,26 @@
+## four_wheel_steering_msgs (noetic) - 1.1.1-1
+
+The packages in the `four_wheel_steering_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic four_wheel_steering_msgs` on `Wed, 13 May 2020 09:52:30 -0000`
+
+The `four_wheel_steering_msgs` package was released.
+
+Version of package(s) in repository `four_wheel_steering_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/four_wheel_steering_msgs.git
+- release repository: https://github.com/ros-drivers-gbp/four_wheel_steering_msgs-release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.1.0-1`
+- new version: `1.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## four_wheel_steering_msgs (melodic) - 1.1.0-1
 
 The packages in the `four_wheel_steering_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistr melodic --track melodic four_wheel_steering_msgs` on `Mon, 06 Apr 2020 16:56:06 -0000`
