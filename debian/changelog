@@ -1,0 +1,23 @@
+ros-noetic-four-wheel-steering-msgs (1.1.1-1buster) buster; urgency=high
+
+  * Update maintainer email
+  * Contributors: Vincent Rousseau
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Wed, 13 May 2020 00:00:00 -0000
+
+ros-noetic-four-wheel-steering-msgs (1.1.0-1buster) buster; urgency=high
+
+  * Bump CMake version to avoid CMP0048 warning (#4 <https://github.com/ros-drivers/four_wheel_steering_msgs/issues/4>)
+  * Contributors: Alejandro Hernández Cordero
+
+ -- Vincent Rousseau <vincent.rousseau@irstea.fr>  Mon, 06 Apr 2020 00:00:00 -0000
+
+ros-noetic-four-wheel-steering-msgs (1.0.0-1buster) buster; urgency=high
+
+  * Update url path
+  * Initial commit from https://github.com/Romea/romea_controllers
+  * Contributors: Vincent Rousseau
+
+ -- Vincent Rousseau <vincent.rousseau@irstea.fr>  Wed, 26 Apr 2017 00:00:00 -0000
+
+
