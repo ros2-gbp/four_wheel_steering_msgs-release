@@ -2,6 +2,14 @@
 Changelog for package four_wheel_steering_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.1 (2020-10-02)
+------------------
+* 2.0.0
+* Add architecture_independent tag
+* Remove linter tests directive
+* Migrate to ROS2
+* Contributors: Marcel Zeilinger
+
 1.1.1 (2020-05-13)
 ------------------
 * Update maintainer email
