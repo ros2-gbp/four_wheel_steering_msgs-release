@@ -1,0 +1,33 @@
+ros-galactic-four-wheel-steering-msgs (2.0.1-1focal) focal; urgency=high
+
+  * 2.0.0
+  * Add architecture_independent tag
+  * Remove linter tests directive
+  * Migrate to ROS2
+  * Contributors: Marcel Zeilinger
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Thu, 01 Oct 2020 22:00:00 -0000
+
+ros-galactic-four-wheel-steering-msgs (1.1.1-1focal) focal; urgency=high
+
+  * Update maintainer email
+  * Contributors: Vincent Rousseau
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Tue, 12 May 2020 22:00:00 -0000
+
+ros-galactic-four-wheel-steering-msgs (1.1.0-1focal) focal; urgency=high
+
+  * Bump CMake version to avoid CMP0048 warning (#4 <https://github.com/ros-drivers/four_wheel_steering_msgs/issues/4>)
+  * Contributors: Alejandro Hernández Cordero
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Sun, 05 Apr 2020 22:00:00 -0000
+
+ros-galactic-four-wheel-steering-msgs (1.0.0-1focal) focal; urgency=high
+
+  * Update url path
+  * Initial commit from https://github.com/Romea/romea_controllers
+  * Contributors: Vincent Rousseau
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Tue, 25 Apr 2017 22:00:00 -0000
+
+
