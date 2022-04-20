@@ -1,0 +1,33 @@
+ros-humble-four-wheel-steering-msgs (2.0.1-3bullseye) bullseye; urgency=high
+
+  * 2.0.0
+  * Add architecture_independent tag
+  * Remove linter tests directive
+  * Migrate to ROS2
+  * Contributors: Marcel Zeilinger
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Fri, 02 Oct 2020 07:00:00 -0000
+
+ros-humble-four-wheel-steering-msgs (1.1.1-3bullseye) bullseye; urgency=high
+
+  * Update maintainer email
+  * Contributors: Vincent Rousseau
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Wed, 13 May 2020 07:00:00 -0000
+
+ros-humble-four-wheel-steering-msgs (1.1.0-3bullseye) bullseye; urgency=high
+
+  * Bump CMake version to avoid CMP0048 warning (#4 <https://github.com/ros-drivers/four_wheel_steering_msgs/issues/4>)
+  * Contributors: Alejandro Hernández Cordero
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Mon, 06 Apr 2020 07:00:00 -0000
+
+ros-humble-four-wheel-steering-msgs (1.0.0-3bullseye) bullseye; urgency=high
+
+  * Update url path
+  * Initial commit from https://github.com/Romea/romea_controllers
+  * Contributors: Vincent Rousseau
+
+ -- Vincent Rousseau <vincentrou@gmail.com>  Wed, 26 Apr 2017 07:00:00 -0000
+
+
