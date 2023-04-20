@@ -1,0 +1,12 @@
+Source: ros-iron-four-wheel-steering-msgs
+Section: misc
+Priority: optional
+Maintainer: Vincent Rousseau <vincentrou@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-rosidl-default-generators, ros-iron-std-msgs, ros-iron-ros-workspace, ros-iron-rosidl-typesupport-fastrtps-c, ros-iron-rosidl-typesupport-fastrtps-cpp
+Homepage: http://ros.org/wiki/four_wheel_steering_msgs
+Standards-Version: 3.9.2
+
+Package: ros-iron-four-wheel-steering-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-rosidl-default-runtime, ros-iron-std-msgs, ros-iron-ros-workspace
+Description: ROS messages for robots using FourWheelSteering.
