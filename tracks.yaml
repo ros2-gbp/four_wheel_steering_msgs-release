@@ -222,4 +222,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/ros-drivers/four_wheel_steering_msgs.git
-    version: :{auto}
+    version: 2.0.1
+    version_saved: :{auto}
